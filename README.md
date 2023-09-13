@@ -1,2 +1,3 @@
 # Calculator by Pietro Daniele
 ### iosdfgsidnhdukjivniukfb
+Lo scopo del progetto **calculator** è produrre un clone...
